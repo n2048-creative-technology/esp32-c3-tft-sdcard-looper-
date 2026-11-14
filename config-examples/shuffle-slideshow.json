@@ -1,0 +1,9 @@
+{
+  "_comment": "Random order, random transitions, slow images. No playlist = every file on the card.",
+  "shuffle": true,
+  "transition": "random",
+  "transition_seconds": 1.0,
+  "image": { "duration_seconds": 10 },
+  "text": { "mode": "typewriter", "chars_per_second": 15, "align": "center", "valign": "middle", "size": 2 },
+  "video": { "loops": 3 }
+}

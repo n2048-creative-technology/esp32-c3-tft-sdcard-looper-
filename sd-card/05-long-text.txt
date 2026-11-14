@@ -1,0 +1,19 @@
+LONG TEXT TEST
+
+This file is longer than one screen, so it pages every 5 seconds.
+
+Field tide carbon tentacle pulse field quiet signal cipher signal signal tide ember glass orbit glass quiet hollow lumen neon marrow static pulse ripple drift field signal static.
+
+Pulse field neon signal vector lumen field orbit echo cipher drift field static quiet tide glass cipher drift marrow cipher echo marrow pulse quiet ember neon tentacle pulse tentacle pulse marrow vector signal cipher field hollow tentacle vector signal marrow orbit cipher field.
+
+Signal vector hollow quiet cipher tide tentacle cipher drift ember vector ember static neon echo ember neon ripple marrow tide glass glass echo carbon ripple quiet tide pulse pulse vector tentacle orbit pulse marrow vector drift static tentacle vector echo static echo glass.
+
+Drift quiet vector carbon field echo ember marrow drift neon ripple cipher cipher hollow marrow tide ember drift neon orbit echo signal lumen tentacle carbon lumen tide marrow.
+
+Glass pulse marrow vector field ripple orbit field ripple pulse static pulse signal marrow neon field tide orbit tide tide quiet ember hollow glass carbon vector tide marrow marrow static orbit signal glass ember signal field neon neon tide ripple static orbit vector glass.
+
+Neon lumen ripple echo echo cipher signal hollow lumen glass carbon tentacle signal ripple hollow pulse glass ember echo vector static neon tide signal field cipher quiet marrow ripple neon hollow marrow orbit static vector drift quiet echo neon field glass drift field signal quiet.
+
+A verylongwordthatdoesnotfitononelineatallandmustbehardbroken test.
+
+END

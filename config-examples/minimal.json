@@ -1,0 +1,5 @@
+{
+  "transition": "none",
+  "image": { "duration_seconds": 8 },
+  "text": { "mode": "scroll", "scroll_speed": 30 }
+}

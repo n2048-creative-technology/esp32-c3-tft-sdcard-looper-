@@ -1,0 +1,13 @@
+{
+  "_comment": "Deliberately wrong values, to test the warnings. Each bad value is ignored and the default kept.",
+  "transition": "spin",
+  "backlight": 999,
+  "colour": "red",
+  "text": { "mode": "marquee", "size": 9, "color": "#GG0000" },
+  "playlist": [
+    "00-title.txt",
+    "does-not-exist.jpg",
+    "notes.docx",
+    { "file": "01-welcome.txt", "speed": 2 }
+  ]
+}

@@ -1,0 +1,4 @@
+PLAYLIST
+TEST
+
+config.json

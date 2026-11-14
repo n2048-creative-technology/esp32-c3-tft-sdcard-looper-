@@ -1,0 +1,5 @@
+Hello from the SD card!
+
+This playlist loops through every .txt, .bmp, .jpg and .avi file in the root of the card, in alphabetical order.
+
+Images show for 5 s, text pages for 5 s each, videos play once to the end.

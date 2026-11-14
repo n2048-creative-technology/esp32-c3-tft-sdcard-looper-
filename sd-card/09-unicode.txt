@@ -1,0 +1,6 @@
+UNICODE TEST
+
+Plain ASCII is fine.
+Accents: café, niño, über
+Emoji: 🙂 🚀
+Each non-ASCII char should show as one '?'.
