@@ -707,7 +707,7 @@ static void unmountCard() {
   showInsertCard();
 }
 
-static void setBacklight(uint8_t v) { ledcWrite(0, v); }
+static void setBacklight(uint8_t v) { ledcWrite(PIN_TFT_LED, v); }
 
 // ---- Arduino ------------------------------------------------------------------
 void setup() {
@@ -716,8 +716,7 @@ void setup() {
   pinMode(PIN_SD_CS, OUTPUT);  // deselect the card before the bus is used
   digitalWrite(PIN_SD_CS, HIGH);
 
-  ledcSetup(0, 5000, 8);  // backlight PWM (arduino-esp32 2.x API)
-  ledcAttachPin(PIN_TFT_LED, 0);
+  ledcAttach(PIN_TFT_LED, 5000, 8);  // backlight PWM (arduino-esp32 3.x API)
   setBacklight(global.backlight);
 
   SPI.begin(PIN_SCK, PIN_MISO, PIN_MOSI, -1);
